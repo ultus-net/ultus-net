@@ -7,8 +7,8 @@
 ### Domains & Systems I've Touched
 
 * **Integration, App Dev & Applied AI:** Building custom applications and event-driven pipelines in Azure using **TypeScript**, **Python**, and **C#**. Recently built an automated order-processing pipeline using **Azure Document Intelligence** and **Durable Functions** to ingest emailed purchase orders from a shared mailbox and post them directly into D365 F&O.
-* **Enterprise ERP, CRM & WMS:** Key team member on a Dynamics 365 Finance & Operations (D365 F&O) implementation alongside ongoing ownership of HubSpot CRM, working closely with implementation partners and MSP support vendors. Currently gearing up for a new warehouse buildout—implementing D365 Warehouse Management (WMS) and the onsite infrastructure to support it.
-* **Infrastructure, Cloud & Networking:** System and network engineering (routing & switching) across Windows Server and RHEL-family Linux (Fedora). Been a key part of taking infrastructure from on-premises to colocation data centres and into Azure IaaS—covering disaster recovery, failover, and legacy decommissioning along the way.
+* **Enterprise ERP, CRM & WMS:** Key team member on both Dynamics 365 Finance & Operations (D365 F&O) and HubSpot CRM implementations, as well as their ongoing support alongside implementation partners and MSP vendors. Currently gearing up for a new warehouse buildout, implementing D365 Warehouse Management (WMS) and the onsite infrastructure to support it.
+* **Infrastructure, Cloud & Networking:** System and network engineering (routing & switching) across Windows Server and RHEL-family Linux (Fedora). Been a key part of taking infrastructure from on-premises to colocation data centres and into Azure IaaS, covering disaster recovery, failover, and legacy decommissioning along the way.
 * **Endpoint Management & Support Roots:** Early career foundation in government IT service desk and desktop/mobile support, evolving into corporate fleet management (Windows, iOS) using **Microsoft Intune** and MDM tooling.
 * **Business Intelligence:** Report writing and data modeling across operational and ERP data sources.
 
